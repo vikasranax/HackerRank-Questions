@@ -12,7 +12,6 @@ int main()
         if (arrA[i] > arrB[i])
         {
             alice++;
-            
         }
 
         else if (arrA[i] < arrB[i])
