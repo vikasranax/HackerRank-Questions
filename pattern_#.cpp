@@ -3,6 +3,7 @@ using namespace std;
 int main()
 {
     int n;
+    cout<<"Enter Number of lines of # you want\n";
     cin >> n;
     for (int i=n; i>0; i--)
     {
